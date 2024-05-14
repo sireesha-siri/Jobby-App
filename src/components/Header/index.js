@@ -47,7 +47,7 @@ const Header = props => {
               type="button"
               className="logout-button-sm"
               onClick={onClickLogout}
-              aria-label="logout"
+              
             >
               <FiLogOut className="logout-icon-sm" />
             </button>
